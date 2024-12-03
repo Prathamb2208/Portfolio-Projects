@@ -1,0 +1,27 @@
+Title: 📊 Superstore Sales Analysis Dashboard: End-to-End Data Analysis Project
+
+🚀 Project Overview:
+In this project, I performed an end-to-end analysis of Superstore sales data to uncover valuable insights into profitability, sales trends, and regional performance. Using Excel for data cleaning and preparation and Tableau for visualization, I created an interactive dashboard that offers key business insights.
+
+Steps Followed:
+1️⃣ Data Preparation & Cleaning:
+
+Removed duplicates, handled missing values, and standardized data formatting in Excel.
+Organized fields to ensure accurate analysis and modeling.
+2️⃣ Data Exploration:
+
+Analyzed patterns in sales, profit, and quantity across dimensions like Category, Region, and Order Date.
+3️⃣ Dashboard Creation:
+
+Designed an interactive Tableau dashboard with visuals such as:
+Regional Sales & Profit Analysis
+Sales Trends Over Time
+Product Category Performance
+Profit Breakdown by Sub-Category
+Integrated slicers and filters for user interactivity.
+Key Insights:
+📍 The West region outperformed others in sales and profit, while Central lagged.
+📉 Tables sub-category showed negative profits, requiring strategic focus.
+📈 Sales consistently grew over time, with spikes during holiday seasons.
+Next Steps:
+I aim to leverage such analyses to help businesses make data-driven decisions. Check out the Tableau dashboard for interactivity: https://public.tableau.com/shared/5HZDWKQDJ?:display_count=n&:origin=viz_share_link
